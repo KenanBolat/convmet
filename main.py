@@ -1,10 +1,6 @@
-# from satpy import available_readers
 import os
 import satpy
 import glob
-import matplotlib.pyplot as plt
-
-# print(available_readers())
 
 os.environ['XRIT_DECOMPRESS_PATH'] = '/opt/conda/pkgs/public-decomp-wt-2.8.1-h3fd9d12_1/bin/xRITDecompress'
 channel_folders = ['IR_087___',
