@@ -1,0 +1,9 @@
+
+# files
+*.nc
+*.tar
+
+# folders
+.venv/
+.idea/
+data/

@@ -1,0 +1,7 @@
+satpy
+numpy
+scipy
+matplotlib
+bokeh
+holoviews
+geoviews
